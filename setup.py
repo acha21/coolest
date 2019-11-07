@@ -10,7 +10,7 @@ from setuptools import setup
 setup(name='coolest',
       version='0.1',
       description='The coolest joke in the world',
-      url='http://github.com/acha21/coolest.git',
+      url='git@github.com:acha21/coolest.git',
       author='Yeonchan Ahn',
       author_email='ahnyeonchan@gmail.com',
       license='MIT',
